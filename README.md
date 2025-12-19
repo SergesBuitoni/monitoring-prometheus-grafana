@@ -33,9 +33,12 @@ L’ensemble des services est déployé et orchestré avec Docker Compose.
 Lancer la stack :
 ```bash
 docker compose up -d
+```
 
 ## Vérifier les conteneurs
+```bash
 docker ps
+```
 
 ## Accès aux services 
 Application Nginx : http://localhost:8080
@@ -67,3 +70,5 @@ Mise en place de notifications (email, Slack)
 Supervision applicative avancée
 Déploiement sur un environnement Cloud (Azure ou AWS)
 
+## Auteur
+Joseph Serges Mboui Tonye
