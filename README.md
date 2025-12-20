@@ -70,5 +70,23 @@ Mise en place de notifications (email, Slack)
 Supervision applicative avancée
 Déploiement sur un environnement Cloud (Azure ou AWS)
 
+## Captures d'écran du projet
+
+### Dashboard Grafana
+![Dashboard Grafana](screenshots/Tableau de bord Grafana et synchronisation avec prometheus.png)
+
+### Dashboard Prometheus
+![Dashboard Prometheus](screenshots/Dashboard Prometheus.png)
+
+### Lancement de Nginx
+![Lancement de Nginx](screenshots/Lancement de Nginx.png)
+
+### Surveillance des métriques
+![Surveillance des métriques](screenshots/Surveillance des metriques.png)
+
+### Synchronisation Prometheus
+![Synchronisation Prometheus](screenshots/Synchronisation Promotheus réussi.png)
+
 ## Auteur
 Joseph Serges Mboui Tonye
+
