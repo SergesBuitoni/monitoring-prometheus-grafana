@@ -73,19 +73,19 @@ Déploiement sur un environnement Cloud (Azure ou AWS)
 ## Captures d'écran du projet
 
 ### Dashboard Grafana
-![Dashboard Grafana](screenshots/Tableau de bord Grafana et synchronisation avec prometheus.png)
+![Dashboard Grafana](screenshots/Tableau_de_bord_Grafana.png)
 
 ### Dashboard Prometheus
-![Dashboard Prometheus](screenshots/Dashboard Prometheus.png)
+![Dashboard Prometheus](screenshots/Dashboard_Prometheus.png)
 
 ### Lancement de Nginx
-![Lancement de Nginx](screenshots/Lancement de Nginx.png)
+![Lancement de Nginx](screenshots/Lancement_de_Nginx.png)
 
 ### Surveillance des métriques
-![Surveillance des métriques](screenshots/Surveillance des metriques.png)
+![Surveillance des métriques](screenshots/Surveillance_des_metriques.png)
 
 ### Synchronisation Prometheus
-![Synchronisation Prometheus](screenshots/Synchronisation Promotheus réussi.png)
+![Synchronisation Prometheus](screenshots/Synchronisation_Prometheus.png)
 
 
 ## Auteur
